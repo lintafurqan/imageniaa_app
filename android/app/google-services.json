@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831855769213",
+    "project_id": "imagenia-af2ee",
+    "storage_bucket": "imagenia-af2ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831855769213:android:bc4954b8378f34623b2314",
+        "android_client_info": {
+          "package_name": "com.example.imageniaa_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMDI2iVcqQbtM6d9uqSbFQC-gnebF4lWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
